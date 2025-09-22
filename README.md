@@ -9,8 +9,7 @@ This project demonstrates enterprise access controls in Microsoft Entra ID P2 by
 - Simulated audit/recertification processes with Access Reviews
 - Implemented just-in-time role activation with PIM
 
-All controls were aligned with NIST SP 800-53 to reflect Zero Trust security principles. I also created an Audit PDF documenting the Access Control Policy and attaching 
-evidence screenshots.
+All controls were aligned with NIST SP 800-53 (AC-2, AC-3, AC-6, IA-2), which are key requirements for FedRAMP and modern Zero Trust architectures. I also created an Audit PDF documenting the Access Control Policy and attaching evidence screenshots.
 <br />
 
 
