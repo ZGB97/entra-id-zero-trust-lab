@@ -27,43 +27,43 @@ evidence screenshots.
 <h2>Program Screenshots:</h2>
 
 <p align="center">
-Created test users in Entra ID.: <br/>
+Created Test Users In Entra ID.: <br/>
 <img src="https://i.imgur.com/4aaFa6e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configured Conditional Access policy.:  <br/>
+Configured Conditional Access Policy.:  <br/>
 <img src="https://i.imgur.com/XXNmtRU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Password reset workflow.: <br/>
+Password Reset Workflow.: <br/>
 <img src="https://i.imgur.com/yficGjJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Policy in portal.:  <br/>
+Policy In Portal.:  <br/>
 <img src="https://i.imgur.com/SO07lua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful login after MFA.: <br/>
+Successful Login After MFA.: <br/>
 <img src="https://i.imgur.com/0eduKKu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Evidence of Conditional Access being enforced: <br/>
+Evidence Of Conditional Access Being Enforced: <br/>
 <img src="https://i.imgur.com/8QoE3cN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Group created for governance.: <br/>
+Group Created For Governance.: <br/>
 <img src="https://i.imgur.com/GjnyAvJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Access Review configuration.: <br/>
+Access Review Configuration.: <br/>
 <img src="https://i.imgur.com/jN4mmj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-PIM eligibility setup.: <br/>
+PIM Eligibility Setup.: <br/>
 <img src="https://i.imgur.com/S07bFJF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-PIM role settings (MFA + justification).:  <br/>
+PIM Role Settings (MFA + justification).:  <br/>
 <img src="https://i.imgur.com/HmQWjY0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
