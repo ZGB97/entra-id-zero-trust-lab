@@ -2,8 +2,15 @@
 
 
 <h2>Description</h2>
-This project demonstrates enterprise access controls in Microsoft Entra ID P2 by configuring Conditional Access, Access Reviews, and Privileged Identity Management (PIM).
-In this lab I enforced MFA for admins, simulated audit/recertification processes, and implemented just-in-time role activation to align with Zero Trust principles. I also created an Audit PDF documenting the Access Control Policy and its evidence.
+This project demonstrates enterprise access controls in Microsoft Entra ID P2 by configuring Conditional Access, Access Reviews, and Privileged Identity Management (PIM). 
+<h4>In this lab I:</h4>
+
+- Enforced MFA for admins
+- Simulated audit/recertification processes with Access Reviews
+- Implemented just-in-time role activation with PIM
+
+All controls were aligned with NIST SP 800-53 to reflect Zero Trust security principles. I also created an Audit PDF documenting the Access Control Policy and attaching 
+evidence screenshots.
 <br />
 
 
